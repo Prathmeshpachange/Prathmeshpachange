@@ -11,19 +11,19 @@
 --------------------------------------------------------------------------------------------------------
 
   
-- 🔭 I'm Quick Learner,Engineer,Student and Developer. 
+- 🔭 I'm Quick Learner,Engineer,Student and Java Developer. 
 - 🔭 Currently Studying in 3rd Year Engineering (TY B.Tech)
-- 🌱 Currently learning some operating system concept and Web Developement 
+- 🌱 Currently learning some Advance Java concept and Android Developement 
 - 👯 I’m looking to collaborate on Java Development
-- 💬 Ask me about c/c++/java/Python/JavaScript/oop concepts, DSA, HTML, CSS, Bootstrap.
-- 📫 How to reach me: Twitter : 
-- 😄 Pronouns: He/His
+- 💬 Ask me about java/Advance Java/c/c++/Oracle Sql/JavaScript/oop concepts, DSA, HTML, CSS,DBMS.
+- 📫 How to reach me: Linkedin : https://www.linkedin.com/in/prathmesh-pachange-15b083190/
+- 😄 Pronouns: He
 - ⚡ Fun fact: HR gives the package as per our knowledge😄
 
 -------------------------------------------------------------------------------------------------------------
 
 ## Technical Skills
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
 
 
 <!-- ------------------------------------------------------------------------------------------------------------- -->
@@ -54,10 +54,10 @@
 <!-- ## Connect With Me 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/guruprasad-kokare-3b734420b/">
+  <a href="https://www.linkedin.com/in/prathmesh-pachange-15b083190/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/GuruprasadDatt2">
+  <a href="https://twitter.com/imPpachange">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -69,12 +69,12 @@
 
   <p align="center">
 
-<a href="https://www.facebook.com/guruprasad.kokare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+<a href="https://www.facebook.com/prathmesh.pachange" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
     <a href="https://www.github.com/Prathmeshpachange" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-    <a href="http://www.instagram.com/g_u_r_u_28" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-      <a href="https://www.linkedin.com/in/guruprasad-kokare-3b734420b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
- <a href="https://www.twitter.com/GuruprasadDatt2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
-<a href="https://www.youtube.com/channel/UC-o2fwskKOaFDSQL30X1qww" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+    <a href="http://www.instagram.com/prathmesh.pachange" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+      <a href="https://www.linkedin.com/in/prathmesh-pachange-15b083190/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+ <a href="https://www.twitter.com/imPpachange" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
+
   
 <!-- ***************************************************************************************************************************************************************** -->
   

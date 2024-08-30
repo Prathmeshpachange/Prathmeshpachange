@@ -18,7 +18,6 @@
 - 💬 Ask me about java/Advance Java/c/c++/Oracle Sql/JavaScript/oop concepts, DSA, HTML, CSS,DBMS.
 - 📫 How to reach me: Linkedin : https://www.linkedin.com/in/prathmesh-pachange-15b083190/
 - 😄 Pronouns: He
-- ⚡ Fun fact: HR gives the package as per our knowledge😄
 
 -------------------------------------------------------------------------------------------------------------
 

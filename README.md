@@ -12,7 +12,7 @@
 
   
 - 🔭 I'm Quick Learner,Engineer,Student and Java Developer. 
-- 🔭 Currently Studying in 3rd Year Engineering (TY B.Tech)
+- 🔭 I hold a Bachelor of Technology (B.Tech) degree in Information Technology.
 - 🌱 Currently learning some Advance Java concept and Android Developement 
 - 👯 I’m looking to collaborate on Java Development
 - 💬 Ask me about java/Advance Java/c/c++/Oracle Sql/JavaScript/oop concepts, DSA, HTML, CSS,DBMS.

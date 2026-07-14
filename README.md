@@ -5,7 +5,6 @@ Software Engineer passionate about building scalable backend systems and AI-powe
 ## 🚀 Currently
 
 - 💼 Trainee Software Engineer at 63 Moons Technologies
-- 🧠 Building **Sarathi** – AI Personal Life Mentor
 - ⚙️ Working with ASP.NET Core, PostgreSQL, Docker and React
 - 📚 Learning System Design, Distributed Systems and AI Engineering
 

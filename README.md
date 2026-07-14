@@ -6,34 +6,35 @@ Currently working with ASP.NET Core, PostgreSQL, Docker, GitHub Codespaces, Clea
 
 I'm continuously improving my skills in backend engineering, distributed systems, AI integration, and software architecture.
 
-Backend
+Tech Stack
+Backend : 
 C#
 ASP.NET Core
 Java
 REST APIs
-Frontend
+Frontend : 
 React
 Next.js
 HTML
 CSS
 JavaScript
-Database
+Database : 
 PostgreSQL
 SQL Server
 MySQL
 Redis
 Qdrant
-AI
+AI : 
 Ollama
 OpenAI
 Semantic Kernel
 RAG
-DevOps
+DevOps: 
 Docker
 Git
 GitHub
 GitHub Codespaces
-Architecture
+Architecture : 
 Clean Architecture
 CQRS
 MediatR

@@ -1,40 +1,18 @@
-Hi, I'm Prathmesh 👋
+# Hi, I'm Prathmesh 👋
 
-Software Engineer passionate about building scalable backend systems, AI-powered applications, and modern cloud-native software.
+Software Engineer passionate about building scalable backend systems and AI-powered applications.
 
-Currently working with ASP.NET Core, PostgreSQL, Docker, GitHub Codespaces, Clean Architecture, and React while building Sarathi, an AI-powered Personal Life Mentor.
+## 🚀 Currently
 
-I'm continuously improving my skills in backend engineering, distributed systems, AI integration, and software architecture.
+- 💼 Trainee Software Engineer at 63 Moons Technologies
+- 🧠 Building **Sarathi** – AI Personal Life Mentor
+- ⚙️ Working with ASP.NET Core, PostgreSQL, Docker and React
+- 📚 Learning System Design, Distributed Systems and AI Engineering
 
-Tech Stack
-Backend : 
-C#
-ASP.NET Core
-Java
-REST APIs
-Frontend : 
-React
-Next.js
-HTML
-CSS
-JavaScript
-Database : 
-PostgreSQL
-SQL Server
-MySQL
-Redis
-Qdrant
-AI : 
-Ollama
-OpenAI
-Semantic Kernel
-RAG
-DevOps: 
-Docker
-Git
-GitHub
-GitHub Codespaces
-Architecture : 
-Clean Architecture
-CQRS
-MediatR
+## 🛠 Tech Stack
+
+- Backend: ASP.NET Core, C#, Java, Spring Boot
+- Frontend: React, Next.js, JavaScript
+- Database: PostgreSQL, SQL Server, MySQL, Redis
+- AI: Ollama, OpenAI, Semantic Kernel, RAG
+- DevOps: Docker, GitHub Actions, GitHub Codespaces
